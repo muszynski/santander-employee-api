@@ -1,0 +1,61 @@
+{
+  "employees": [
+    {
+      "userId": 20122,
+      "firstName": "Łukasz",
+      "lastName": "Muszyński",
+      "email": "lukasz.muszynski@santander.pl",
+      "jobTitle": "Specjalista ds. sprzedaży",
+      "businessPhone": "+48 881 000 702",
+      "address": {
+        "street": "Al. Jana Pawła II 17",
+        "city": "Warszawa",
+        "postalCode": "00-581",
+        "country": "Polska"
+      },
+      "website": "https://santander.pl",
+      "lastUpdated": "2025-01-19",
+      "isActive": true
+    },
+    {
+      "userId": 33680,
+      "firstName": "Jan",
+      "lastName": "Testowy",
+      "email": "jan.testowy@santander.pl",
+      "jobTitle": "Senior Business Analyst",
+      "businessPhone": "+48 123 456 789",
+      "address": {
+        "street": "ul. Emilii Plater 53",
+        "city": "Warszawa",
+        "postalCode": "00-113",
+        "country": "Polska"
+      },
+      "website": "https://santander.pl",
+      "lastUpdated": "2025-01-19",
+      "isActive": true
+    },
+    {
+      "userId": 12345,
+      "firstName": "Anna",
+      "lastName": "Kowalska",
+      "email": "anna.kowalska@santander.pl",
+      "jobTitle": "Manager ds. Klientów Biznesowych",
+      "businessPhone": "+48 555 123 456",
+      "address": {
+        "street": "ul. Królewska 16",
+        "city": "Warszawa",
+        "postalCode": "00-103",
+        "country": "Polska"
+      },
+      "website": "https://santander.pl",
+      "lastUpdated": "2025-01-19",
+      "isActive": true
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "lastSync": "2025-01-19T10:30:00Z",
+    "totalEmployees": 3,
+    "dataSource": "HR_SYSTEM_SIMPLIFIED"
+  }
+}
